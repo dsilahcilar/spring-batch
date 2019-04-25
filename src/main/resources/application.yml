@@ -1,0 +1,6 @@
+rootPath: "/Users/deniz/dev/git/dsilahcilar/spring-batch/src/main/resources/files"
+importDir: "/import"
+handledDir: "/handled"
+importPath: ${rootPath}${importDir}
+handledPath: ${rootPath}${handledDir}
+
